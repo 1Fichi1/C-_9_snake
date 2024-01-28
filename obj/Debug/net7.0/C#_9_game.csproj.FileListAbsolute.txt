@@ -1,0 +1,14 @@
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\bin\Debug\net7.0\C#_9_game.exe
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\bin\Debug\net7.0\C#_9_game.deps.json
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\bin\Debug\net7.0\C#_9_game.runtimeconfig.json
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\bin\Debug\net7.0\C#_9_game.dll
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\bin\Debug\net7.0\C#_9_game.pdb
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.AssemblyInfo.cs
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.dll
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\refint\C#_9_game.dll
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.pdb
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\C#_9_game.genruntimeconfig.cache
+C:\Users\batyr\source\repos\C#_9_game\C#_9_game\obj\Debug\net7.0\ref\C#_9_game.dll
